@@ -33,4 +33,4 @@ jobs:
           f0f4ca4b-4290-4acb-b071-745dee9c0cc3/quotes-api/1.0.0
           --remote-rulesets 68ef9520-24e9-4cf2-b2f5-620025690913/anypoint-best-practices/1.6.1
           --remote --client_id 15b6205258424dee835edcb9b0b8897e 
-          --client_secret 44D48DAF1658416995317cA75E9cdf3D --environment Sandbox -o json
+          --client_secret 44D48DAF1658416995317cA75E9cdf3D --environment Sandbox
