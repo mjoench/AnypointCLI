@@ -1,4 +1,4 @@
-name: Anypoint CLI Automation
+name: Anypoint Governance CLI Automation
 
 # Controls when the workflow will run
 on:
